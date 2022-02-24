@@ -1,6 +1,8 @@
-MIT License
+License
 
-Copyright (c) 2022 Vladislav Jovanov
+Copyright (c) 2021 Dr Vladislav Jovanov, Center of Microelectronic Technologies, 
+Institute of Chemistry, Technology and Metallurgy at the University of Belgrade
+contact e-mail: vjovanov@nanosys.ihtm.bg.ac.rs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +21,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+If you publish data obtained by using this software or approach you should cite
+papers listed below:
+
+[1] V. Jovanov, J. Ivanchev, and D. Knipp, Standing wave spectrometer, Optics Express 18(2),
+426–438 (2010).
+https://doi.org/10.1364/OE.18.000426
