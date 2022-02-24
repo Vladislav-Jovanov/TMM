@@ -1,0 +1,10 @@
+DB/__pycache__/
+DB_gui/__pycache__/
+DB_gui/dbconfig.ini
+GUI/__pycache__/
+GUI/images/*.png
+GUI/TMM_guiconfig.ini
+GUI/TMM_sim.ini
+TMM/__pycache__/
+extra/__pycache__/
+Figs/__pycache__/
