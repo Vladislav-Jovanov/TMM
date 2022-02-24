@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20mm"
+   height="15mm"
+   viewBox="0 0 20 15"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="Arrow.svg"
+   inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow80.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.1714366"
+     inkscape:cx="82.770061"
+     inkscape:cy="51.396266"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer15" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="rect846"
+       style="opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.1470569,1.0044476 V 7.170629 H 6.0324406 L 9.0518141,11.72539 12.071187,7.170629 H 9.9565701 V 1.0044476 h -0.904756 z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <path
+       id="rect846-5"
+       style="display:inline;opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 9.0848911,0.96638921 8.5474731,7.109106 6.4409031,6.924805 9.0518141,11.72539 12.456671,7.451117 10.350101,7.266816 10.887519,1.1240987 9.9862061,1.0452437 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     style="display:inline">
+    <path
+       id="rect846-5-6"
+       style="display:inline;opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10.022474,1.0102131 8.951728,7.082716 6.869237,6.715517 9.0518141,11.72539 12.816242,7.764135 10.733751,7.396935 11.804497,1.3244318 10.913487,1.1673223 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 4"
+     style="display:inline">
+    <path
+       id="rect846-3"
+       style="opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10.95267,1.1355863 9.3567451,7.09166 7.3141811,6.544357 9.0518141,11.72539 13.147163,8.1073 11.1046,7.559997 12.700525,1.6039227 11.826598,1.3697547 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow15.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 5"
+     style="display:inline">
+    <path
+       id="rect846-3-2"
+       style="display:inline;opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 11.868399,1.3415545 9.7594413,7.135869 7.7723505,6.412628 9.0518141,11.72539 13.446916,8.478001 11.459826,7.75476 13.568784,1.9604443 12.718592,1.6509996 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow20.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 6"
+     style="display:inline">
+    <path
+       id="rect846-3-2-9"
+       style="display:inline;opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12.762692,1.6265488 10.156751,7.215007 8.2402569,6.321332 9.0518141,11.72539 13.71322,8.873416 11.796726,7.979741 14.402667,2.3912819 13.58268,2.0089156 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow25.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Layer 7"
+     style="display:inline">
+    <path
+       id="rect846-3-3"
+       style="opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 13.628743,1.9884028 10.545652,7.328472 8.7143401,6.271164 9.0518141,11.72539 13.944048,9.290538 12.112736,8.233229 15.195827,2.8931592 14.412285,2.4407814 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow30.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Layer 8"
+     style="display:inline">
+    <path
+       id="rect846-3-3-1"
+       style="display:inline;opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 14.538448,2.4243609 10.950343,7.475401 9.1930109,6.262507 9.051814,11.72539 14.211453,9.72619 12.454121,8.513295 16.042227,3.4622548 15.290337,2.9433083 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow35.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Layer 9"
+     style="display:inline">
+    <path
+       id="rect846-3-3-1-2"
+       style="display:inline;opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 15.328208,2.9379456 11.31353,7.657041 9.668596,6.295601 9.051814,11.72539 14.366061,10.18349 12.721127,8.822049 16.735806,4.1029529 16.032008,3.5204497 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow40.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Layer 10"
+     style="display:inline">
+    <path
+       id="rect846-3-6"
+       style="opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 15.992907,3.5047783 11.632757,7.864927 10.137496,6.369667 9.0518141,11.72539 14.407536,10.639706 12.912276,9.144446 17.272425,4.784297 16.632666,4.144538 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow45.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Layer 11"
+     style="display:inline">
+    <path
+       id="rect846-3-6-70"
+       style="display:inline;opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 16.682968,4.141016 11.959397,8.104562 10.600147,6.484671 9.0518141,11.72539 14.48178,11.11062 13.12253,9.490729 17.846099,5.527184 17.264534,4.834101 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow50.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Layer 12"
+     style="display:inline">
+    <path
+       id="rect846-3-6-70-9"
+       style="display:inline;opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 17.31495,4.834976 12.263907,8.371753 11.051012,6.63956 9.0518141,11.72539 14.514697,11.586212 13.301802,9.854019 18.352843,6.317243 17.833897,5.57611 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow55.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Layer 13"
+     style="display:inline">
+    <path
+       id="rect846-3-6-7"
+       style="opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 17.884046,5.581375 12.543975,8.664466 11.486665,6.833154 9.0518141,11.72539 14.50604,12.062862 13.448731,10.23155 18.788801,7.148459 18.336423,6.364918 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow60.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Layer 14"
+     style="display:inline">
+    <path
+       id="rect846-3-6-7-3"
+       style="display:inline;opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 18.385923,6.374535 12.797464,8.980476 11.903786,7.063982 9.0518141,11.72539 14.455873,12.536945 13.562196,10.620451 19.150655,8.01451 18.768288,7.194523 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow65.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Layer 15"
+     style="display:inline">
+    <path
+       id="rect846-3-6-7-3-6"
+       style="display:inline;opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 18.816761,7.208418 13.022445,9.317376 12.299201,7.330286 9.0518141,11.72539 14.364577,13.004852 13.641334,11.017762 19.43565,8.908803 19.126205,8.058611 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow70.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="Layer 16"
+     style="display:inline">
+    <path
+       id="rect846-3-6-7-5"
+       style="opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 19.173283,8.076677 13.217208,9.672602 12.669903,7.630038 9.0518141,11.72539 14.232847,13.46302 13.685544,11.420457 19.641618,9.824531 19.40745,8.950604 Z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/TMM_package/GUI/images/Arrow75.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="Layer 17"
+     style="display:inline">
+    <path
+       id="rect846-3-6-7-5-0"
+       style="display:inline;opacity:1;fill:#ffd408;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 19.452774,8.972706 -6.072504,1.070745 -0.367201,-2.082492 -3.9612549,3.764431 5.0098729,2.182575 -0.367199,-2.082491 6.072504,-1.070748 -0.15711,-0.89101 z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/media/tzework/server/Programming/python/small_app/images/rect846.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
