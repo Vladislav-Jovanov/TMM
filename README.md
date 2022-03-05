@@ -6,6 +6,6 @@ See requirements.txt file.
 ## Example
 Example database that program uses is given in the root directory.
 ## Usage
-Program can be used by users without progamming experience.
+Program can be used by users without programming experience.
 ## Contact
 If you have questions you can contact me via e-mail: vjovanov@nanosys.ihtm.bg.ac.rs
